@@ -1,0 +1,41 @@
+body
+{
+	background-image: url(images/mbc1.jpg);
+	background-size: 100%;
+
+}
+
+h1{
+	font-family: algerian;
+	text-align: center;
+	color: orange;
+	font-size: 40px;
+	background-color: black;
+}
+
+
+h2{
+	color: green;
+	font-family: algerian;
+	text-align: center;
+	margin-left: 400px;
+	background-color: black;
+	font-size: 30px;	
+}
+
+
+h3{
+	color: black;
+	font-weight: bold;
+	background-color: gray;
+	font-size: 20px;
+	font-family: mv boli;
+}
+
+.float-img{
+	float: left; 
+	margin-right: 10px; 
+	margin-bottom: 5px; 
+	border: solid green 5px; 
+	padding: 2px
+}
