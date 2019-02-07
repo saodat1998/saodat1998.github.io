@@ -1,0 +1,48 @@
+body
+{
+	background-image: url(images/horse.jpg);
+	background-size: 100%;
+
+}
+p{
+	color: yellow;
+	font-family: consolas;
+	font-size: 20px;
+	text-align: left;
+	
+}
+
+h1{
+	color: yellow;
+	text-align: center;
+	font-family: verdana;
+	font-size: 45px;
+}
+
+h2{
+	color: gold;
+	font-family: Verdana;
+	font-size: 200%;
+	text-align: center;
+}
+
+
+li{
+	color: gold;
+	font-family: Verdana;
+	font-size: 160%;
+	text-align: left;
+
+}
+
+table, th, td {
+    border: 5px solid gold;
+    border-collapse: collapse;
+    margin: center;
+   
+}
+th, td {
+    padding: 5px;
+    text-align: left;
+}
+
